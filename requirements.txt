@@ -1,5 +1,5 @@
 breakout-detection==0.1.0
-certifi==2022.6.15
+certifi==2022.12.7
 charset-normalizer==2.1.0
 colorama==0.4.5
 commonmark==0.9.1
